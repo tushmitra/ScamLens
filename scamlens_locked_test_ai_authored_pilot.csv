@@ -1,0 +1,61 @@
+text,language,label
+"Hey, I got the bank alert too. I opened the official app directly and it shows the same transaction, so I think we're fine.",English,0
+"The courier says the parcel is delayed. I checked the tracking number on the shop's website, and it matches the order I placed.",English,0
+My manager asked me to review the invoice. I'll verify the vendor details with our finance team before we process it.,English,0
+"I received a KYC reminder, but it says to open the bank app myself rather than follow a link. I'll check it there.",English,0
+The payment is pending on my side. Please don't send it again yet; I'll check my statement and confirm once it settles.,English,0
+The college office called about my scholarship form. I'll call the published office number back to confirm which document is missing.,English,0
+"A buyer says the payment is complete, but I can't see it in my account. I'll wait until the funds actually appear.",English,0
+My cousin sent a link to a family photo album. I'll message her separately to make sure she meant to share it.,English,0
+"The bank called about unusual activity, but I didn't share any codes. I said I'd call the number on my card instead.",English,0
+The landlord says the rent transfer hasn't arrived. I'll check the transaction reference and ask the bank if it remains pending.,English,0
+I got a delivery fee notification for an order I remember placing. I'll compare the amount with the courier's official tracking page.,English,0
+"The recruiter asked me to bring ID to the interview. There is no fee, and the company address matches its public website.",English,0
+"My friend needs help with a bill. I'll speak to them on our usual number before sending anything, just to confirm it's really them.",English,0
+A subscription renewal is due next week. I'll review it through the service's app and cancel there if I no longer need it.,English,0
+"The support agent asked for the ticket number and the last four digits of my order ID, not my password or OTP.",English,0
+"I can see your refund is pending. To release it, approve the collect request that just arrived; you won't be charged, it's only verification.",English,1
+"The bank's fraud desk says your account is safe, but they need the OTP from this call to cancel the suspicious transfer before the timer ends.",English,1
+Your parcel is at the local depot. Pay this small re-delivery fee through my personal UPI and I'll mark it delivered in the system.,English,1
+"The hiring manager has selected you. The refundable laptop deposit must be paid today, otherwise your offer will go to the next candidate.",English,1
+Your pension record is almost approved. Send your card number and the code you receive so I can finish the update for you.,English,1
+"I know we haven't met yet, but my luggage is stuck overseas. If you cover the customs charge today, I'll repay you as soon as I arrive.",English,1
+"The investment portal shows your profit, but withdrawals are paused until you pay the account activation tax to this wallet.",English,1
+I'm from the municipal office. The notice can be withdrawn quietly if you transfer the inspection fee now instead of waiting for a formal hearing.,English,1
+We detected a login from another city. Use this link to confirm your password and card PIN so the bank can keep your account open.,English,1
+Your prize is reserved under your phone number. Pay the processing charge first; the prize amount will cover it once released.,English,1
+Please keep this between us. I need you to receive a business payment in your account and forward it after deducting your share.,English,1
+Your voter details don't match the new register. Reply with your ID number and verification code here to prevent deletion tonight.,English,1
+The buyer accidentally sent extra money. Refund the difference to this other account now; the payment screenshot is attached as proof.,English,1
+I have your private video from the call. Send cryptocurrency within an hour or I'll share it with your contacts.,English,1
+The bank will reverse the disputed payment only if you install this support app and let me control the screen while you log in.,English,1
+"Bank ka alert aaya hai, par maine app khud open karke check kiya. Transaction meri hi hai, isliye abhi koi action nahi le raha.",Hinglish,0
+"Courier ka message hai ki parcel late hoga. Tracking number official website par same dikh raha hai, main kal tak wait karunga.",Hinglish,0
+Office wale invoice verify karne bol rahe hain. Payment approve karne se pehle main finance team se vendor details confirm kar lunga.,Hinglish,0
+"KYC reminder mila hai, lekin link par click nahi karunga. Bank app directly khol ke dekh lunga ki sach mein kuch pending hai ya nahi.",Hinglish,0
+"Mera payment abhi pending hai. Aap dobara transfer mat karna; statement update hone do, phir main confirm kar dunga.",Hinglish,0
+College office ne scholarship form ke document ke liye call kiya tha. Main website par diye number par call back karke confirm karunga.,Hinglish,0
+"Buyer bol raha hai payment kar diya, par mere account mein abhi show nahi ho raha. Credit aane ke baad hi parcel bhejunga.",Hinglish,0
+Cousin ne family photos ka link bheja hai. Main usko WhatsApp par alag se pooch lunga ki link usne hi share kiya tha na.,Hinglish,0
+Bank se unusual activity ka call aaya tha. Maine OTP nahi bataya aur bola ki main card ke peeche wale number par call karunga.,Hinglish,0
+"Landlord keh rahe hain rent nahi mila. Main UTR check karke bank se status confirm karunga, phir unko update de dunga.",Hinglish,0
+Delivery fee ka notification aaya hai aur maine order kiya tha. Main official tracking page par amount match karke hi payment karunga.,Hinglish,0
+Recruiter ne interview ke liye ID laane ko bola hai. Koi registration fee nahi maangi aur office address company website se match karta hai.,Hinglish,0
+Friend ne bill ke liye paise maange hain. Transfer se pehle main uske normal number par call karke confirm kar lunga ki message usi ka hai.,Hinglish,0
+Subscription renew hone wali hai. Main service ki app se plan check karunga aur zarurat nahi hui toh wahin cancel kar dunga.,Hinglish,0
+"Support agent ne ticket number aur order ID ke last digits maange. Password ya OTP nahi maanga, isliye main ticket details check kar raha hoon.",Hinglish,0
+"Refund release karne ke liye jo collect request aayi hai usko approve kar do. Paise receive honge, deduct nahi honge, bas verification hai.",Hinglish,1
+"Bank fraud team se bol raha hoon. Account bachane ke liye call par aaya OTP bata do, timer khatam hone se pehle suspicious transfer cancel karna hai.",Hinglish,1
+"Aapka parcel depot par hai. Mere personal UPI par chhoti si redelivery fee bhej do, main system mein delivered mark kar dunga.",Hinglish,1
+"Job confirm ho gayi hai. Laptop security deposit refundable hai, aaj payment nahi kiya toh offer next candidate ko chala jayega.",Hinglish,1
+"Pension update almost complete hai. Card number aur phone par aaya code bhej do, main aapka record abhi approve karwa deta hoon.",Hinglish,1
+"Hum abhi mile nahi hain, par mera luggage foreign airport par rok diya hai. Customs fee abhi de do, India aate hi return kar dunga.",Hinglish,1
+"Profit account mein dikh raha hai, lekin withdrawal unlock karne ke liye pehle activation tax is wallet mein bhejna padega.",Hinglish,1
+"Municipal office se bol raha hoon. Formal notice rokna hai toh inspection fee abhi transfer kar do, baad mein receipt mil jayegi.",Hinglish,1
+"Aapke account mein dusre city se login hua hai. Account band na ho isliye is link par password, PIN aur card details verify kar do.",Hinglish,1
+"Aapka prize select ho gaya hai. Pehle processing charge pay karo, prize release hote hi saara amount cover ho jayega.",Hinglish,1
+"Ye baat kisi ko mat batana. Mere business ka payment tumhare account mein aayega, apna commission rakh kar baaki mujhe bhej dena.",Hinglish,1
+Voter list mein aapki details mismatch hain. Aaj raat deletion se bachne ke liye ID number aur verification code isi chat mein bhejo.,Hinglish,1
+"Buyer ne galti se extra payment kar di hai. Screenshot bheja hai, ab difference is doosre account mein turant refund kar do.",Hinglish,1
+Video call ki private recording mere paas hai. Ek ghante mein crypto bhejo warna tumhare contacts ko share kar dunga.,Hinglish,1
+Disputed payment reverse karne ke liye support app install karo aur screen access do. Main login karwa ke refund process kar deta hoon.,Hinglish,1

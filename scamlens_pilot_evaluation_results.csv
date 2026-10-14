@@ -1,0 +1,9 @@
+Model,Language,Scam recall (%),Scams missed,Legitimate false alarms,Legitimate messages
+Baseline — original data,English,53.33,7,4,15
+Baseline — original data,Hinglish,40.0,9,1,15
+Word-only — + Hinglish,English,60.0,6,2,15
+Word-only — + Hinglish,Hinglish,53.33,7,0,15
+Word + character — + Hinglish,English,73.33,4,1,15
+Word + character — + Hinglish,Hinglish,60.0,6,1,15
+V2 — development-error tuned,English,60.0,6,1,15
+V2 — development-error tuned,Hinglish,60.0,6,0,15
