@@ -1,0 +1,51 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+node_modules/
+dist/
+*.tsbuildinfo
+# Model artifacts (see backend/models/README.md)
+backend/models/*.joblib
+backend/models/MANIFEST.json
+# Evaluation outputs are local records; commit deliberately if you want them tracked
+reports/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Frontend dependencies and builds
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+coverage/
+.vite/
+
+# macOS and local files
+.DS_Store
+**/.DS_Store
+*.log
+*.tmp
+*.bak
+
+# IDE files
+.idea/
+.vscode/

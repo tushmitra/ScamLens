@@ -1,0 +1,20 @@
+# docker compose up --build   ->  UI http://localhost:8080 , API http://localhost:8000/docs
+services:
+  backend:
+    build: ./backend
+    environment:
+      SCAMLENS_CORS_ORIGINS: http://localhost:8080
+      SCAMLENS_REQUIRE_MODEL: "false"   # set "true" once ./backend/models holds the artifact
+    volumes:
+      - ./backend/models:/models:ro
+    ports:
+      - "8000:8000"
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_SCAMLENS_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"

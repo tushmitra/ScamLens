@@ -1,0 +1,1 @@
+{"dataset": "pilot_ai_authored_60_FROZEN.csv", "dataset_sha256": "dec55cfd9c540702a4d75018662378affba243f8322252163b127997a53d8701", "rows": 60, "mode": "exploratory", "system": "rules", "model_loaded": false, "model_artifact_sha256": null, "model_review_threshold": null, "provenance": "ai_authored_synthetic", "run_utc": "2026-10-23T07:29:50+00:00"}

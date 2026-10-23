@@ -1,0 +1,28 @@
+{
+  "project": "ScamLens",
+  "selected_model": "word_char_candidate_rebuilt",
+  "model_type": "Word and character TF-IDF with Logistic Regression",
+  "artifact": "word_char_candidate_rebuilt.joblib",
+  "labels": {
+    "0": "Legitimate",
+    "1": "Government impersonation",
+    "2": "Financial fraud",
+    "3": "Bank phishing",
+    "4": "Romance/parcel/sextortion"
+  },
+  "binary_rule": "Any predicted label other than 0 is treated as a scam",
+  "development_note": "Provisional candidate. Not independently validated for production. Frozen pilot/holdout sets were not used for training or tuning.",
+  "sklearn_version": "1.9.1",
+  "created_utc": "2026-10-23T07:52:09+00:00",
+  "artifact_sha256": "37574aefc871e6e14b3394dc032f43e7b552f0acf49db26dd08cda307ac65e7e",
+  "training": {
+    "rows": 11275,
+    "dev_rows": 2725,
+    "extra_weight": null,
+    "seed": 42,
+    "min_df": 2,
+    "data_sha256": {
+      "sentinel_dataset_multiclass_clean.csv": "1c09717abd3841a04ac0942fbf8374643d906138f7623e1db9cab00a3de71f5d"
+    }
+  }
+}

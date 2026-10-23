@@ -1,0 +1,8 @@
+# Runtime. Install the SAME scikit-learn version the model was trained with
+# (recorded in <model>_metadata.json -> sklearn_version); joblib artifacts are version-sensitive.
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.7,<3
+scikit-learn>=1.4,<2
+joblib>=1.3
+numpy>=1.26

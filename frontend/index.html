@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#080d18" />
+    <meta name="description" content="ScamLens helps you review suspicious messages and static URL warning signs before you act." />
+    <link rel="icon" type="image/svg+xml" href="/scamlens-mark.svg" />
+    <title>ScamLens — Pause the scam. Protect your world.</title>
+  
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem('scamlens-theme');
+          document.documentElement.dataset.theme = saved === 'light' ? 'light' : 'dark';
+        } catch { document.documentElement.dataset.theme = 'dark'; }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
